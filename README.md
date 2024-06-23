@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **I had the honor of interning at Strackit Private Limited, diving deep into the realm of creating dynamic user interfaces in the role of a React.JS intern.**
 
-- 🌱 I’m currently learning **Node.JS,Express.JS**
+- 🌱 I’m currently learning **Data Science and Machine Learining**
 
 - 👯 I’m looking to collaborate on **React.JS Projects**
 
