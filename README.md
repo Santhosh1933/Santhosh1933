@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm santhosh s</h1>
 <h3 align="center">A passionate React.JS developer from India with Good Responsive Designing</h3>
 
-- 🔭 I’m currently working on **I had the honor of interning at Strackit Private Limited, diving deep into the realm of creating dynamic user interfaces in the role of a React.JS intern.**
+- 🔭 I have complted my working in **Strackit Private Limited** as a react js intern
 
 - 🌱 I’m currently learning **Data Science and Machine Learining**
 
