@@ -6,6 +6,8 @@
 💼 Currently working as **Analyst Machine Learning Engineer** at **Tiger Analytics**  
 🌍 Based in Chennai, Tamil Nadu, India
 
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/Santhosh1933/Santhosh1933/blob/main/santhosh_s_mle.pdf)
+
 ---
 
 ## 🚀 About Me
